@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+body{
+    background-color: lightyellow;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    background-color: rgb(202, 165, 73);
+    color: rgb(145, 4, 4);
+    text-decoration: underline;
+}
+h2{
+    color: rgb(145, 4, 4);
+}
+a{
+    float: right;
+}
